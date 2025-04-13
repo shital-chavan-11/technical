@@ -1,0 +1,83 @@
+🔹 Basic String Problems
+Reverse a String – Given a string, return its reverse. *(Example: "hello" → "olleh")
+
+Check Palindrome – Determine if a string reads the same forward and backward. *(Example: "madam" → True)
+
+Count Vowels and Consonants – Count the number of vowels (a, e, i, o, u) and consonants in a given string.
+
+Remove Duplicates – Given a string, remove duplicate characters while maintaining order. *(Example: "programming" → "progamin")
+
+Find the Most Frequent Character – Find the character that appears most frequently in a string. *(Example: "banana" → 'a')
+
+Check Anagram – Given two strings, check if they are anagrams (contain the same characters in any order). *(Example: "listen" & "silent" → True)
+
+First Non-Repeating Character – Find the first character that does not repeat in a string. *(Example: "aabbccde" → 'd')
+
+Count Words in a String – Given a sentence, count the number of words. *(Example: "Hello world" → 2)
+
+Remove Spaces from a String – Remove all spaces from a given string. *(Example: "I love coding" → "Ilovecoding")
+
+Capitalize First Letter of Each Word – Convert "hello world" to "Hello World"
+
+🔹 Intermediate String Problems
+Valid Parentheses – Check if a string with (){}[] is balanced.
+
+Check if Two Strings are Rotations – Given "abcde" and "deabc", return True if one is a rotation of the other.
+
+Find the Longest Word in a Sentence – Given "Coding is fun", return "Coding".
+
+Count the Frequency of Each Character – Given "hello", output { 'h':1, 'e':1, 'l':2, 'o':1 }.
+
+Replace a Character in a String – Replace all occurrences of 'a' with '@' in "banana".
+
+Reverse Each Word in a Sentence – Convert "I love Python" to "I evol nohtyP".
+
+Compress a String – "aaabbc" → "a3b2c1" (basic Run-Length Encoding).
+
+Check if a String Contains Only Digits – "12345" → True, "12a34" → False.
+
+Check for Pangram – A pangram contains every letter of the alphabet at least once. "The quick brown fox jumps over the lazy dog" → True.
+
+Remove All Duplicates from a Sentence – Convert "I am am learning learning Python" to "I am learning Python".
+
+🔹 Advanced String Problems
+Find All Permutations of a String – Given "abc", generate ["abc", "acb", "bac", "bca", "cab", "cba"].
+
+Longest Common Prefix – Given ["flower", "flow", "flight"], return "fl".
+
+Check if One String is a Subsequence of Another – "ace" is a subsequence of "abcde" (a→c→e).
+
+Find the Longest Palindromic Substring – Given "babad", return "bab" or "aba".
+
+Minimum Steps to Make Two Strings Anagram – Convert "aba" to "cba" in minimum steps.
+
+Find the Smallest Window Containing All Characters of Another String – Find the smallest substring in "ADOBECODEBANC" that contains all characters of "ABC".
+
+Decode a Run-Length Encoded String – Convert "a3b2c1" back to "aaabbc".
+
+Group Anagrams – Given ["eat", "tea", "tan", "ate", "nat", "bat"], group them: [["eat","tea","ate"], ["tan","nat"], ["bat"]].
+
+Remove Adjacent Duplicates Recursively – "aabbac" → "c".
+
+Check if a String Follows a Given Pattern – "abab" and ["cat", "dog", "cat", "dog"] → True, "abba" and ["cat", "dog", "dog", "cat"] → False.
+
+🔥 Challenge Problems
+Zigzag Conversion – Given "PAYPALISHIRING" and 3 rows, convert it to "PAHNAPLSIIGYIR".
+
+Implement strstr() (Substring Search) – Find the index of "needle" in "haystack".
+
+Roman to Integer Conversion – Convert "IX" to 9, "LVIII" to 58.
+
+Multiply Two Large Numbers as Strings – Multiply "123" × "456" without using int().
+
+Find All Possible Word Breaks – Given "catsanddog" and dictionary ["cat", "cats", "and", "sand", "dog"], return ["cat sand dog", "cats and dog"].
+
+Print All Subsequences of a String – Given "abc", output ["a", "b", "c", "ab", "ac", "bc", "abc"].
+
+Find the Shortest Palindrome by Adding Characters – Convert "abcd" to "dcbabcd".
+
+Find the Longest Substring Without Repeating Characters – "abcabcbb" → "abc" (length 3).
+
+Check if Two Strings are K-Anagrams – "anagram" and "grammar" with k=2 → True.
+
+Find All Palindromic Partitions – Given "aab", return ["aa", "b"], ["a", "a", "b"].
