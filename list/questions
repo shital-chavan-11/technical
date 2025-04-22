@@ -1,0 +1,45 @@
+Here are logic-building Python list questions that will help improve your problem-solving skills:
+
+Basic Logic-Based Questions
+Write a Python program to find the largest and smallest number in a list.
+
+Reverse a list without using the built-in reverse() method.
+
+Find the sum of all elements in a list.
+
+Find the second largest number in a list.
+
+Remove all even numbers from a list.
+
+Intermediate Logic-Based Questions
+Check if a list is sorted in ascending or descending order.
+
+Rotate a list n positions to the right.
+
+Merge two sorted lists into a single sorted list.
+
+Remove duplicates from a list without using set().
+
+Find the most frequently occurring element in a list.
+
+Pattern & Arrangement-Based Problems
+Given a list of numbers, replace every element with the product of all elements except itself (without using division).
+
+Rearrange a list so that even numbers appear before odd numbers while maintaining their relative order.
+
+Rearrange a list so that positive numbers appear before negative numbers.
+
+Find all pairs in a list that sum to a given target value.
+
+Find the intersection of two lists without using built-in functions.
+
+Advanced Logic-Based Questions
+Find the longest increasing subsequence in a list.
+
+Find the missing number in a sequence from 1 to n.
+
+Find the subarray with the maximum sum (Kadane’s Algorithm).
+
+Given a list of integers, find three numbers whose sum is closest to zero.
+
+Given a rotated sorted list, find the index of the minimum element.
